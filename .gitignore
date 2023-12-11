@@ -1,3 +1,4 @@
 /Main*
 /.meta*
 /init.sh
+*.o
